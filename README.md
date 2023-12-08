@@ -7,6 +7,7 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 <h2>👷🏾‍♂️ Cybersecurity Projects:</h2>
 
 - <b>[Keylogger](https://github.com/angeloqmartin/keylogger)</b>
+- <b>[Network Traffice Analysis](https://github.com/angeloqmartin/Network-Traffic-Analysis)</b>
 
 <h2>🔖 Certifications:</h2>
 
