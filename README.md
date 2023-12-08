@@ -10,9 +10,9 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 
 <h2>🔖 Certifications:</h2>
 
-- CompTIA PenTest+
-- CompTIA Security+
 - CompTIA Network+
+- CompTIA Security+
+- CompTIA PenTest+
 - CompTIA A+
 - Microsoft MTA
 
