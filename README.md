@@ -8,6 +8,9 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 
 - <b>[Keylogger](https://github.com/angeloqmartin/keylogger)</b>
 - <b>[Network Traffice Analysis](https://github.com/angeloqmartin/Network-Traffic-Analysis)</b>
+- <b>[SIEM Implementation in Azure Cloud](https://github.com/angeloqmartin/SIEM-Implementation-in-Azure-Cloud)</b>
+
+
 
 <h2>🔖 Certifications:</h2>
 
