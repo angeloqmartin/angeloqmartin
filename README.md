@@ -6,10 +6,11 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 
 <h2>👷🏾‍♂️ Cybersecurity Projects:</h2>
 
-- <b>[Keylogger](https://github.com/angeloqmartin/keylogger)</b>
-- <b>[Network Traffice Analysis](https://github.com/angeloqmartin/Network-Traffic-Analysis)</b>
+- <b>[Vulnerability Assessment](https://github.com/angeloqmartin/Vulnerability-Assessment)
 - <b>[SIEM Implementation in Azure Cloud](https://github.com/angeloqmartin/SIEM-Implementation-in-Azure-Cloud)</b>
+- <b>[Network Traffice Analysis](https://github.com/angeloqmartin/Network-Traffic-Analysis)</b>
 - <b>[Basics of bash-scripting](https://github.com/angeloqmartin/bash-scripting-/tree/main)</b>
+- <b>[Keylogger](https://github.com/angeloqmartin/keylogger)</b>
 
 
 
