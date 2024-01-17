@@ -11,7 +11,7 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 - <b>[Network Traffice Analysis](https://github.com/angeloqmartin/Network-Traffic-Analysis)</b>
 - <b>[Basics of bash-scripting](https://github.com/angeloqmartin/bash-scripting-/tree/main)</b>
 - <b>[Keylogger](https://github.com/angeloqmartin/keylogger)</b>
-- <br>[Threat Hunting](https://github.com/angeloqmartin/Threat-Hunting/blob/main/README.md)</br>
+- <b>[Threat Hunting](https://github.com/angeloqmartin/Threat-Hunting/blob/main/README.md)</b>
 
 
 
