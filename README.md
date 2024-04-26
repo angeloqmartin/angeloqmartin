@@ -25,7 +25,7 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 
 <h2>📋 Resume:</h2>
 
-[Download](https://github.com/angeloqmartin/angeloqmartin/files/13644106/ResumeAngeloMartin.docx.pdf) PDF copy OR view on [Google Docs](https://docs.google.com/document/d/1ndFW4K6SAE7XpVZqXKYx54K-GkLinY2R/edit?usp=sharing&ouid=109328508610470081460&rtpof=true&sd=true)
+[View Copy](https://docs.google.com/document/d/e/2PACX-1vR2ny7s-_Nl4ZbuenPTrbK5-bh4eB_TUKuFEUotLTlwiK_f7Bmh_rynZA0oWzMoj8KUYIkKJUhpWjJO/pub)
 
 
 
