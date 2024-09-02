@@ -17,9 +17,10 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 
 <h2>🔖 Certifications:</h2>
 
-- CompTIA Network+
+- Certified Ethical Hacker (CEH)
 - CompTIA Security+
 - CompTIA PenTest+
+- CompTIA Network+
 - CompTIA A+
 - Microsoft MTA
 
