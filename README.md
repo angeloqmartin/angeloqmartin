@@ -26,7 +26,7 @@ I'm into cybersecurity, bringing in solid problem-solving, critical thinking, an
 
 <h2>📋 Resume:</h2>
 
-[View Copy](https://docs.google.com/document/d/11LmufUgaTVUTl_p1wyiFOgf29xT8ApWxfpz_HXHib8E/edit?usp=sharing)
+[View Copy](https://docs.google.com/document/d/1Hr2U3XCUvgSDM4E6aPjtOwqaosUGMNAybOLu8Z6uuEg/edit?usp=sharing)
 
 
 
